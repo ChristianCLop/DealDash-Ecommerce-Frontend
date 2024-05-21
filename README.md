@@ -38,7 +38,29 @@ Iniciar el proyecto
 
 ## Screenshots
 
-![App Screenshot](Images/1.Login.jpeg)
+### Login
+<img src="Images/1.Login.jpeg" alt="App Screenshot" width="300"/>
+
+### Registro
+<img src="Images/2.Registro.jpeg" alt="App Screenshot" width="300"/>
+
+### Pagina Principal
+<img src="Images/3.Principal.jpeg" alt="App Screenshot" width="300"/>
+
+### Productos
+<img src="Images/4.Productos.jpeg" alt="App Screenshot" width="300"/>
+
+### Pedidos
+<img src="Images/5.Pedidos.jpeg" alt="App Screenshot" width="300"/>
+
+### Tus Pedidos
+<img src="Images/6.TusPedidos.jpeg" alt="App Screenshot" width="300"/>
+
+### Opciones
+<img src="Images/7.Opciones.jpeg" alt="App Screenshot" width="300"/>
+
+### Perfil
+<img src="Images/8.Perfil.jpeg" alt="App Screenshot" width="300"/>
 
 
 ## Autor
