@@ -28,11 +28,14 @@ Iniciar el proyecto
 ```
 ## Caracteristicas
 
-- Registro e Inicio de Sesión
-- CRUD de Productos
-- CRUD de Pedidos 
-- Pasare de pagos por Paypal
-
+- Login
+- Registro
+- Pagina Principal
+- Productos
+- Pedidos
+- Tus Pedidos
+- Opciones
+- Perfil
 
 ## Screenshots
 
