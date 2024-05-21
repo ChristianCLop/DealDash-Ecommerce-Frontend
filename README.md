@@ -39,7 +39,7 @@ Iniciar el proyecto
 ## Screenshots
 
 ### Login
-<img src="Images/1.Login.jpeg" alt="App Screenshot" width="300"/>
+<img src="Images/1.Login.jpeg" alt="App Screenshot" width="300" aling="center"/>
 
 ### Registro
 <img src="Images/2.Registro.jpeg" alt="App Screenshot" width="300"/>
@@ -61,7 +61,6 @@ Iniciar el proyecto
 
 ### Perfil
 <img src="Images/8.Perfil.jpeg" alt="App Screenshot" width="300"/>
-
 
 ## Autor
 
