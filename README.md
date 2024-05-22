@@ -36,6 +36,7 @@ Iniciar el proyecto
 - Tus Pedidos
 - Opciones
 - Perfil
+- Pasarela de Pagos
 
 ## Screenshots
 
@@ -62,6 +63,15 @@ Iniciar el proyecto
 
 ### Perfil
 <img src="Images/8.Perfil.jpeg" alt="App Screenshot" width="300"/>
+
+### Paypal
+<img src="Images/9.Paypal.jpeg" alt="App Screenshot" width="300"/>
+
+### Pasarela
+<img src="Images/10.PasarelaPagos.jpeg" alt="App Screenshot" width="300"/>
+
+### Compra Exitosa
+<img src="Images/11.PagoExitoso.jpeg" alt="App Screenshot" width="300"/>
 
 ## Autor
 
