@@ -1,6 +1,8 @@
-const API = 'http://192.168.100.7:3000';
-//const API = 'http://10.79.5.97:3000';
-//const API = 'http://192.168.100.26:3000';
+import { HOST } from '@env';
+
+const API = HOST;
+
+console.log(HOST);
 
 export const loginUsuario = async (credentials) => {
   try {
